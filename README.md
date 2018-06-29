@@ -4,7 +4,7 @@ Petit jeu basé sur le principe de Pokemon la route de glace et autres genres de
 # Informations supplémentaires
 - Le but est de récupérer les bouchons sur la carte.
 - Si vous créez votre niveau sauvegardez le avec la touche S.
-- Pour les blocs de redirection et alternatif vous pouvez appuyer 
+- Pour les blocs de redirection et les blocs alternatifs vous pouvez appuyer 
 plusieurs fois sur la touche correspondante pour changer le sens ou 
 le type de bloc.
 - Si vous souhaitez ajouter votre niveau à l'aventure : 
