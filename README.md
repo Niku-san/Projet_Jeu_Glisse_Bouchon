@@ -13,7 +13,7 @@ le type de bloc.
 suivant le plus grand dans les fichiers "level".
    3. Enfin ouvrez le fichier "menu.txt" et changer le numéro tout en haut
 pour qu'il corresponde au nombre de niveau dans l'aventure.
-//Si cette manipulation est mal faite le jeu risque de ne pas fonctionner
+//Si cette manipulation est mal réalisée le jeu risque de ne pas fonctionner
 //correctement.
 - Le jeu comporte un système de sauvegarde.
 
