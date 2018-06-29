@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Glisse_Bouchon_EMC" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Glisse_Bouchon_EMC" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Glisse_Bouchon_EMC" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../SDL2-2.0.8/include" />
+			<Add directory="E:/Programmation C/SDL2-2.0.8/include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDL2main" />
+			<Add library="SDL2.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add library="../SDL2-2.0.8/lib/SDL2_image.lib" />
+			<Add directory="../SDL2-2.0.8/lib" />
+			<Add directory="E:/Programmation C/SDL2-2.0.8/lib" />
+		</Linker>
+		<ExtraCommands>
+			<Add after="XCOPY $(#sdl2)\bin\*.dll $(TARGET_OUTPUT_DIR) /D /Y" />
+		</ExtraCommands>
+		<Unit filename="ico.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="src/chargerniveaux.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/chargerniveaux.h" />
+		<Unit filename="src/constantes.h" />
+		<Unit filename="src/editeur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/editeur.h" />
+		<Unit filename="src/includes.h" />
+		<Unit filename="src/init.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/init.h" />
+		<Unit filename="src/jeu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/jeu.h" />
+		<Unit filename="src/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/tuto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/tuto.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

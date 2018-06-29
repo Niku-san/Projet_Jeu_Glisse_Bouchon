@@ -1,0 +1,13 @@
+-records par temps et/ou mouvement
+
+-plusieurs sauvegardes de niveaux perso. 
+-sauvegarde progression mode normal OK
+
+-Boutons cliquables OK
+
+-Bloc de redirection OK
+
+
+
+A corriger :
+- fermeture avec la croix impossible en editeur. CORRIGE
