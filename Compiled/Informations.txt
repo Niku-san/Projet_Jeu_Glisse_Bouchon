@@ -1,0 +1,16 @@
+- Le but est de récupérer les bouchons sur la carte.
+
+- Si vous créez votre niveau sauvegardez le avec la touche S.
+- Pour les blocs de redirection et alternatif vous pouvez appuyer 
+plusieurs fois sur la touche correspondante pour changer le sens ou 
+le type de bloc.
+- Si vous souhaitez ajouter votre niveau à l'aventure : 
+   1. Allez dans le dossier levels
+   2. Renommez le fichier "custom_level" en "level_" suivit d'un numéro
+suivant le plus grand dans les fichier "level".
+   3. Enfin ouvrez le fichier "menu.txt" et changer le numéro tout en haut
+pour qu'il corresponde au nombre de niveau dans l'aventure.
+//Si cette manipulation est male faite le jeu risque de ne pas fonctionner
+//correctement.
+
+- Le jeu comporte un systeme de sauvegarde.
