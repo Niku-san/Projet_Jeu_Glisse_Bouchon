@@ -1,6 +1,8 @@
 # Projet_Jeu_Glisse_Bouchon
 Petit jeu basé sur le principe de Pokemon la route de glace et autres genres de labyrinthes glissants.
 
+PS : Le nom du jeu n'est absolument pas définitif (à la base le jeu avait été fait pour l'association "Un bouchon Un Sourire")
+
 # Informations supplémentaires
 - Le but est de récupérer les bouchons sur la carte.
 - Si vous créez votre niveau sauvegardez le avec la touche S.
