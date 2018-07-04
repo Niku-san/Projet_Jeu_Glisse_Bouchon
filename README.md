@@ -17,7 +17,7 @@ suivant le plus grand dans les fichiers "level".
 pour qu'il corresponde au nombre de niveau dans l'aventure.
 //Si cette manipulation est mal réalisée le jeu risque de ne pas fonctionner
 //correctement.
-- Le jeu comporte un système de sauvegarde.
+- Le jeu comporte un système de sauvegarde automatique (navigation entre les niveaux déjà réussis touches page_up et page_down).
 
 
 
