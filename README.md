@@ -19,6 +19,5 @@ pour qu'il corresponde au nombre de niveau dans l'aventure.
 //correctement.
 - Le jeu comporte un système de sauvegarde automatique (navigation entre les niveaux déjà réussis touches page_up et page_down).
 
-
-
-  Niku-san
+Version Linux :
+Pour lancer le jeu il faut ouvrir un terminal de commande dans le dossier Debug qui est dans le dossier bin et lancer le fichier Jeu_Bouchon depuis le terminal.
