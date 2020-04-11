@@ -20,4 +20,5 @@ pour qu'il corresponde au nombre de niveau dans l'aventure.
 - Le jeu comporte un système de sauvegarde automatique (navigation entre les niveaux déjà réussis touches page_up et page_down).
 
 Version Linux :
-Pour lancer le jeu il faut ouvrir un terminal de commande dans le dossier Debug qui est dans le dossier bin et lancer le fichier Jeu_Bouchon depuis le terminal.
+Pour lancer le jeu il faut ouvrir un terminal de commande dans le dossier du jeu et lancer le fichier Jeu_Bouchon depuis le terminal : 
+"./Jeu_Bouchon".
